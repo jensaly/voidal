@@ -12,7 +12,19 @@ Ensure your OpenGL drivers are version 3.0 or newer (if you update your graphics
 
 The distributed version is built on Ubuntu 20.04 with Glibc 2.31. Your system must be compatible with that. voidal.txt provides a command to dynamically link to the runtime SDL library provided, and then run the game (this will be sorted in future).
 
+# Screenshots
+
+[Demo video](https://www.youtube.com/watch?v=fUWFZTmYYIg)
+
+![mainwindow](https://user-images.githubusercontent.com/91413827/188991877-6aac5c2c-ab55-4b83-ae8b-573801a6d618.PNG)
+![fleetsinmotion](https://user-images.githubusercontent.com/91413827/188991879-46beae76-0100-46fe-8767-9a00561618f8.PNG)
+![ship design](https://user-images.githubusercontent.com/91413827/188991882-a1627990-81e5-416e-aa57-a094a631d83a.PNG)
+![missiles](https://user-images.githubusercontent.com/91413827/188991884-020b6db3-c65c-4c88-b4b7-2e907bd98130.PNG)
+![combat](https://user-images.githubusercontent.com/91413827/188991887-1c7ce512-340f-4ded-a938-a8a9a0b19c84.PNG)
+
 # Known issues
+
+- The game currently has no icon on either platform (one is made, but had to be pulled due to techical issues last minute).
 - The UI is not DPI aware
 - The UI is, at times, misaligned by a few pixels and may have buttons slightly outside the windows
 - The circles indicating assignment in the missile launcher assignment window may sometimes stick after closing, unless the window is moved
