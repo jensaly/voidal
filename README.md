@@ -10,7 +10,7 @@ Ensure your OpenGL drivers are version 3.0 or newer (if you update your graphics
 
 ## Linux
 
-The distributed version is built on Ubuntu 20.04 with Glibc 2.31. Your system must be compatible with that. voidal.txt provides a command to dynamically link to the runtime SDL library provided, and then run the game (this will be sorted in future).
+The distributed version is built on Ubuntu 20.04 with Glibc 2.31. Your system must be compatible with that. voidal.txt provides a command to dynamically link to the runtime SDL library provided, and then run the game (this will be sorted in future, though it has proven to not be necessary on certain distros).
 
 # Screenshots
 
