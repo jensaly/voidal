@@ -46,4 +46,5 @@ The distributed version is built on Ubuntu 20.04 with Glibc 2.31. Your system mu
 - Planets and bodies do not overlap their orbital tracks/orbital tracks are cosmetic and do not match when zoomed in far enough. This is to save performance, a workaround will come in the future.
 - There are too many significant digits in many numbers
 - Portals and Debug Window have been reported to crash the game on a minority of computers
+- There's a hard cap on the game at 10000 years, whereupon it will crash. This is a limitation in a library which I will eventually circumvent, though any reasonable game will not last 10000 years.
 And there will inevitably be crashes.
